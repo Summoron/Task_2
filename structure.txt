@@ -1,0 +1,8 @@
+1) Summary
+2) Project
+3) Steps to reproduce
+4) Expected result
+5) Actual result
+6) Severity
+7) Priority
+8) Additional
